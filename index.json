@@ -2,6 +2,7 @@
 	"GameIconURL":"",
 	"GameTitle":"Footsteps",
 	"GameDescription":"Walking and Aliens",
+	"GitHubAuthor":"QTheTran",
 	"GlobalAreaFile":"footsteps.json",
 	"AudioChannelDefinitions":
 	{
